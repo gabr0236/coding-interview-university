@@ -113,13 +113,13 @@ software development/engineering roles.
 
 ### The Study Plan
 
-- [What is it?](#what-is-it)
-- [Why use it?](#why-use-it)
+- [What is it?](#what-is-it) [x]
+- [Why use it?](#why-use-it) [x]
 - [How to use it](#how-to-use-it)
-- [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
-- [A Note About Video Resources](#a-note-about-video-resources)
-- [Choose a Programming Language](#choose-a-programming-language)
-- [Books for Data Structures and Algorithms](#books-for-data-structures-and-algorithms)
+- [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)[x]
+- [A Note About Video Resources](#a-note-about-video-resources)[x]
+- [Choose a Programming Language](#choose-a-programming-language)[x]
+- [Books for Data Structures and Algorithms](#books-for-data-structures-and-algorithms)[x]
 - [Interview Prep Books](#interview-prep-books)
 - [Don't Make My Mistakes](#dont-make-my-mistakes)
 - [What you Won't See Covered](#what-you-wont-see-covered)
